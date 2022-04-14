@@ -1,0 +1,12 @@
+C:\Users\daguirre\source\repos\Learning\ConsoleUIManager\bin\Debug\net5.0\ConsoleUIManager.deps.json
+C:\Users\daguirre\source\repos\Learning\ConsoleUIManager\bin\Debug\net5.0\ConsoleUIManager.dll
+C:\Users\daguirre\source\repos\Learning\ConsoleUIManager\bin\Debug\net5.0\ref\ConsoleUIManager.dll
+C:\Users\daguirre\source\repos\Learning\ConsoleUIManager\bin\Debug\net5.0\ConsoleUIManager.pdb
+C:\Users\daguirre\source\repos\Learning\ConsoleUIManager\obj\Debug\net5.0\ConsoleUIManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daguirre\source\repos\Learning\ConsoleUIManager\obj\Debug\net5.0\ConsoleUIManager.AssemblyInfoInputs.cache
+C:\Users\daguirre\source\repos\Learning\ConsoleUIManager\obj\Debug\net5.0\ConsoleUIManager.AssemblyInfo.cs
+C:\Users\daguirre\source\repos\Learning\ConsoleUIManager\obj\Debug\net5.0\ConsoleUIManager.csproj.CoreCompileInputs.cache
+C:\Users\daguirre\source\repos\Learning\ConsoleUIManager\obj\Debug\net5.0\ConsoleUIManager.dll
+C:\Users\daguirre\source\repos\Learning\ConsoleUIManager\obj\Debug\net5.0\ref\ConsoleUIManager.dll
+C:\Users\daguirre\source\repos\Learning\ConsoleUIManager\obj\Debug\net5.0\ConsoleUIManager.pdb
+C:\Users\daguirre\source\repos\Learning\ConsoleUIManager\obj\Debug\net5.0\ConsoleUIManager.csproj.AssemblyReference.cache

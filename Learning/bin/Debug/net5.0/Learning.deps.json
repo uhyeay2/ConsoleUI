@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Learning/1.0.0": {
+        "dependencies": {
+          "ConsoleUIManager": "1.0.0"
+        },
+        "runtime": {
+          "Learning.dll": {}
+        }
+      },
+      "ConsoleUIManager/1.0.0": {
+        "runtime": {
+          "ConsoleUIManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Learning/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleUIManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

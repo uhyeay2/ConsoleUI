@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8fdfa034-b60b-4a33-8b78-2ad9ce1c1b81": {
+      "ProjectGuid": "8fdfa034-b60b-4a33-8b78-2ad9ce1c1b81",
+      "DisplayName": "Learning",
+      "ColorIndex": 0
+    },
+    "a6d1b316-5808-4fb8-b6b5-27e83b22f898": {
+      "ProjectGuid": "a6d1b316-5808-4fb8-b6b5-27e83b22f898",
+      "DisplayName": "ConsoleUIManager",
+      "ColorIndex": 1
+    },
+    "53d1a40c-29b5-484f-97eb-a3e1f192c8c4": {
+      "ProjectGuid": "53d1a40c-29b5-484f-97eb-a3e1f192c8c4",
+      "DisplayName": "ConsoleUIManager.Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
