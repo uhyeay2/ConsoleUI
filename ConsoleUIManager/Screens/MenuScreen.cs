@@ -8,7 +8,15 @@ namespace ConsoleUIManager.Screens
 {
     public static class MenuScreen
     {
+        /// <summary>
+        /// The Screen class has a SleepTime field that will slow down the speed that screens are printed at.
+        /// This is not desirable on menu screens, so this feature is disabled by default for menu screens.
+        /// </summary>
         public static bool DisableScreenSleepTime = true;
+
+        /// <summary>
+        /// Private LastSleepTime field used when reactivating SleepTime if DisableScreenSleepTime is true.
+        /// </summary>
         private static int LastSleepTime;
 
         #region With Border
@@ -154,6 +162,11 @@ namespace ConsoleUIManager.Screens
 
         #endregion Print Without Border
 
+        #region Helper Methods
+
+        /// <summary>
+        /// Helper method to set Screen.SleepTime to 0 when DisableScreenSleepTime is true.
+        /// </summary>
         private static void DisableSleepTime()
         {
             if (DisableScreenSleepTime)
@@ -163,6 +176,9 @@ namespace ConsoleUIManager.Screens
             }
         }
 
+        /// <summary>
+        /// Helper method to set Screen.SleepTime back to the LastSleepTime if it was previously disabled.
+        /// </summary>
         private static void EnableSleepTime()
         {
             if (DisableScreenSleepTime)
@@ -170,5 +186,7 @@ namespace ConsoleUIManager.Screens
                 Screen.SleepTime = LastSleepTime;
             }
         }
+
+        #endregion Helper Methods
     }
 }
